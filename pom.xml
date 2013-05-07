@@ -5,17 +5,24 @@
     <parent>
         <groupId>pt.ist</groupId>
         <artifactId>bennu-project</artifactId>
-        <version>1.1.0-rc1</version>
+        <version>1.1.0-rc2</version>
     </parent>
 
     <groupId>pt.ist</groupId>
     <artifactId>themes</artifactId>
-    <version>1.1.0-rc1</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>themes</name>
 
+    <scm>
+        <connection>scm:git:git@github.com:ist-dsi/themes.git</connection>
+        <developerConnection>scm:git:git@github.com:ist-dsi/themes.git</developerConnection>
+        <url>http://ist-dsi.github.io/themes/</url>
+        <tag>HEAD</tag>
+    </scm>
+
     <properties>
-        <version.pt.ist.bennu.core>1.1.0-rc1</version.pt.ist.bennu.core>
+        <version.pt.ist.bennu.core>1.1.0-rc2</version.pt.ist.bennu.core>
     </properties>
 
     <dependencies>
