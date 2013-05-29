@@ -9,7 +9,7 @@
 
     <groupId>pt.ist</groupId>
     <artifactId>themes</artifactId>
-    <version>1.1.0-SNAPSHOT</version>
+    <version>1.1.0</version>
     <packaging>jar</packaging>
     <name>themes</name>
 
@@ -17,7 +17,7 @@
         <connection>scm:git:git@github.com:ist-dsi/themes.git</connection>
         <developerConnection>scm:git:git@github.com:ist-dsi/themes.git</developerConnection>
         <url>http://ist-dsi.github.io/themes/</url>
-        <tag>HEAD</tag>
+        <tag>v1.1.0</tag>
     </scm>
 
     <properties>
